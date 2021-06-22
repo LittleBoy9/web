@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Alatsi&display=swap');
+.m{
+  color: #429636;
+}
+.e{
+  color: #fd9226;
+}
+.r{
+  color: #30b5de;
+}
+.n{
+  color: #343434;
+}
+.h-100{
+  min-height: 100vh;
+}
+.nationality{
+  font-size: 30px;
+}
+.card{
+  width: 500px;
+  padding: 30px;
+  margin: 50px;
+  background-color: #f8f9fa;
+}
+@media only screen and (max-width: 600px) {
+  .card{
+    padding: 15px;
+    margin: 5px;
+    margin-top: 50px;
+  }
+}
+.four-zero-four{
+  font-size: xx-large;
+  font-weight: 900;
+  color: darkgray;
+}
+.profile-img{
+  width: 80%;
+  padding: 10px;
+  border-radius: 50%;
+}
+.flag{
+  padding-left: 10px ;
+  width: 50px
+}
+.welcome{
+  font-size: 24px;
+}
+.username{
+  padding-left: 15px;
+  font-family: 'Alatsi', sans-serif;
+}
